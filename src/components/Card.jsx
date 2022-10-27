@@ -11,7 +11,7 @@ export const Card = (props) => {
               <div className="hover:bg-gray-100 cursor-pointer mt-5 max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
                 <img
                   className="rounded"
-                  src={data.image}
+                  src={data.imageLink}
                   alt="card photo"
                   srcset=""
                 />

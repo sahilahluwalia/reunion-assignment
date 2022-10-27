@@ -8,7 +8,7 @@ export const estates = [
     bathrooms: 2,
     size: "2x5m",
     propertyType: "Flat",
-    image: "https://picsum.photos/400/200?random=27",
+    imageLink: "https://picsum.photos/400/200?random=27",
   },
   {
     Name: "bannerghaata palace",
@@ -19,7 +19,7 @@ export const estates = [
     bathrooms: 3,
     size: "7x3m",
     propertyType: "Bangalow",
-    image: "https://picsum.photos/400/200?random=27",
+    imageLink: "https://picsum.photos/400/200?random=27",
   },
   {
     Name: "Mg Road palace",
@@ -30,7 +30,7 @@ export const estates = [
     bathrooms: 2,
     size: "1x8m",
     propertyType: "Flat",
-    image: "https://picsum.photos/400/200?random=26",
+    imageLink: "https://picsum.photos/400/200?random=26",
   },
   {
     Name: "House45 palace",
@@ -41,7 +41,7 @@ export const estates = [
     bathrooms: 2,
     size: "1x8m",
     propertyType: "Bangalow",
-    image: "https://picsum.photos/400/200?random=22",
+    imageLink: "https://picsum.photos/400/200?random=22",
   },
   {
     Name: "House75 building",
@@ -52,7 +52,7 @@ export const estates = [
     bathrooms: 1,
     size: "9x8m",
     propertyType: "Flat",
-    image: "https://picsum.photos/400/200?random=42",
+    imageLink: "https://picsum.photos/400/200?random=42",
   },
   {
     Name: "Rich Housebuilding",
@@ -63,7 +63,7 @@ export const estates = [
     bathrooms: 3,
     size: "19x28m",
     propertyType: "Bangalow",
-    image: "https://picsum.photos/400/200?random=32",
+    imageLink: "https://picsum.photos/400/200?random=32",
   },
   {
     Name: "Mg Road palace",
@@ -74,7 +74,7 @@ export const estates = [
     bathrooms: 2,
     size: "1x8m",
     propertyType: "Flat",
-    image: "https://picsum.photos/400/200?random=26",
+    imageLink: "https://picsum.photos/400/200?random=26",
   },
   {
     Name: "House45 palace",
@@ -85,7 +85,7 @@ export const estates = [
     bathrooms: 2,
     size: "1x8m",
     propertyType: "Bangalow",
-    image: "https://picsum.photos/400/200?random=20",
+    imageLink: "https://picsum.photos/400/200?random=20",
   },
   {
     Name: "House75 building",
@@ -96,7 +96,7 @@ export const estates = [
     bathrooms: 1,
     size: "9x8m",
     propertyType: "Flat",
-    image: "https://picsum.photos/400/200?random=42",
+    imageLink: "https://picsum.photos/400/200?random=42",
   },
   {
     Name: "Rich Housebuilding",
@@ -107,7 +107,7 @@ export const estates = [
     bathrooms: 3,
     size: "19x28m",
     propertyType: "Bangalow",
-    image: "https://picsum.photos/400/200?random=32",
+    imageLink: "https://picsum.photos/400/200?random=32",
   },
   {
     Name: "Semi Rich Housebuilding",
@@ -118,7 +118,7 @@ export const estates = [
     bathrooms: 2,
     size: "1x8m",
     propertyType: "Flat",
-    image: "https://picsum.photos/400/200?random=42",
+    imageLink: "https://picsum.photos/400/200?random=42",
   },
   {
     Name: "He Rich badi buidling",
@@ -129,7 +129,7 @@ export const estates = [
     bathrooms: 1,
     size: "2x10m",
     propertyType: "Bangalow",
-    image: "https://picsum.photos/400/200?random=52",
+    imageLink: "https://picsum.photos/400/200?random=52",
   },
   {
     Name: "ultra Rich Housebuilding",
@@ -140,7 +140,7 @@ export const estates = [
     bathrooms: 3,
     size: "19x28m",
     propertyType: "Flat",
-    image: "https://picsum.photos/400/200?random=95",
+    imageLink: "https://picsum.photos/400/200?random=95",
   },
   {
     Name: "Semi Rich",
@@ -151,7 +151,7 @@ export const estates = [
     bathrooms: 2,
     size: "1x8m",
     propertyType: "Bangalow",
-    image: "https://picsum.photos/400/200?random=69",
+    imageLink: "https://picsum.photos/400/200?random=69",
   },
   {
     Name: "He Rich ",
@@ -162,7 +162,7 @@ export const estates = [
     bathrooms: 1,
     size: "2x10m",
     propertyType: "Flat",
-    image: "https://picsum.photos/400/200?random=79",
+    imageLink: "https://picsum.photos/400/200?random=79",
   },
   {
     Name: "Mumbai Harbor",
@@ -173,7 +173,7 @@ export const estates = [
     bathrooms: 4,
     size: "12x55m",
     propertyType: "Bangalow",
-    image: "https://picsum.photos/400/200?random=88",
+    imageLink: "https://picsum.photos/400/200?random=88",
   },
   {
     Name: "Mumbai palace",
@@ -184,7 +184,7 @@ export const estates = [
     bathrooms: 3,
     size: "17x53m",
     propertyType: "Flat",
-    image: "https://picsum.photos/400/200?random=87",
+    imageLink: "https://picsum.photos/400/200?random=87",
   },
   {
     Name: "Mumbai Road palace",
@@ -195,7 +195,7 @@ export const estates = [
     bathrooms: 4,
     size: "21x10m",
     propertyType: "Flat",
-    image: "https://picsum.photos/400/200?random=83",
+    imageLink: "https://picsum.photos/400/200?random=83",
   },
   {
     Name: "House41 ultra palace",
@@ -206,7 +206,7 @@ export const estates = [
     bathrooms: 5,
     size: "100x8m",
     propertyType: "Bangalow",
-    image: "https://picsum.photos/400/200?random=81",
+    imageLink: "https://picsum.photos/400/200?random=81",
   },
   {
     Name: "House75 building",
@@ -217,7 +217,7 @@ export const estates = [
     bathrooms: 4,
     size: "19x28m",
     propertyType: "Bangalow",
-    image: "https://picsum.photos/400/200?random=52",
+    imageLink: "https://picsum.photos/400/200?random=52",
   },
   {
     Name: "Rich mumbai",
@@ -228,7 +228,7 @@ export const estates = [
     bathrooms: 6,
     size: "12x18m",
     propertyType: "Flat",
-    image: "https://picsum.photos/400/200?random=84",
+    imageLink: "https://picsum.photos/400/200?random=84",
   },
   {
     Name: "Semi Rich Thane",
@@ -239,7 +239,7 @@ export const estates = [
     bathrooms: 5,
     size: "21x28m",
     propertyType: "Flat",
-    image: "https://picsum.photos/400/200?random=68",
+    imageLink: "https://picsum.photos/400/200?random=68",
   },
   {
     Name: "badi buidling",
@@ -250,7 +250,7 @@ export const estates = [
     bathrooms: 4,
     size: "12x10m",
     propertyType: "Flat",
-    image: "https://picsum.photos/400/200?random=48",
+    imageLink: "https://picsum.photos/400/200?random=48",
   },
   {
     Name: "ultra Rich Mumbai",
@@ -261,7 +261,7 @@ export const estates = [
     bathrooms: 3,
     size: "29x18m",
     propertyType: "Flat",
-    image: "https://picsum.photos/400/200?random=28",
+    imageLink: "https://picsum.photos/400/200?random=28",
   },
   {
     Name: "Semi Rich Mumbai",
@@ -272,7 +272,7 @@ export const estates = [
     bathrooms: 1,
     size: "10x85m",
     propertyType: "Bangalow",
-    image: "https://picsum.photos/400/200?random=81",
+    imageLink: "https://picsum.photos/400/200?random=81",
   },
   {
     Name: "Vashi palace",
@@ -283,6 +283,6 @@ export const estates = [
     bathrooms: 2,
     size: "12x12m",
     propertyType: "Flat",
-    image: "https://picsum.photos/400/200?random=84",
+    imageLink: "https://picsum.photos/400/200?random=84",
   },
 ];
