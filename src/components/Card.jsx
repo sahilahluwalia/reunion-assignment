@@ -12,7 +12,7 @@ export const Card = (props) => {
                 <img
                   className="rounded"
                   src={data.imageLink}
-                  alt="card photo"
+                  alt="card pic"
                   srcset=""
                 />
 
