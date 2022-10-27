@@ -16,7 +16,7 @@ export const Rent = () => {
       bathrooms: 5,
       size: "21x28m",
       propertyType: "Flat",
-      image: "https://picsum.photos/400/200?random=57",
+      imageLink: "https://picsum.photos/400/200?random=57",
     },
     {
       Name: "Semi Rich",
@@ -27,7 +27,7 @@ export const Rent = () => {
       bathrooms: 2,
       size: "1x8m",
       propertyType: "Bangalow",
-      image: "https://picsum.photos/400/200?random=97",
+      imageLink: "https://picsum.photos/400/200?random=97",
     },
   ]);
   const [input, setInput] = useState();
