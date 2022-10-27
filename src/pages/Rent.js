@@ -47,8 +47,8 @@ export const Rent = () => {
     let x = 0;
 
     for (x of array) {
-      if (x["location"] == locationValue) {
-        if (x["propertyType"] == propertyTypeValue) {
+      if (x["location"] === locationValue) {
+        if (x["propertyType"] === propertyTypeValue) {
           if (x["price"] >= priceStartValue && priceEndValue >= x["price"])
             tempArray.push(x);
         }
