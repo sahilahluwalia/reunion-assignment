@@ -75,7 +75,7 @@ export const Rent = () => {
     let x = 0;
 
     for (x of array) {
-      if (x["Name"].includes(text)) {
+      if (x["Name"].toLowerCase().includes(text.toLowerCase())) {
         console.log(x);
         tempArray.push(x);
       }
