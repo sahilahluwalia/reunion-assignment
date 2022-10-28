@@ -91,7 +91,7 @@ export const Rent = () => {
 
   return (
     <>
-      <div className="bg-gray-100 h-screen">
+      <div className="bg-gray-100 h-full">
         <div className="mx-32 py-5 pt-10 flex justify-between ">
           <p className="text-4xl font-medium">Search Property to rent</p>
           <form>
